@@ -27,7 +27,5 @@
 		"tailwindcss": "^3.3.0",
 		"typescript": "^5"
 	},
-	"sideEffects": [
-		"./app/page.tsx"
-	]
+	"sideEffects": false
 }
